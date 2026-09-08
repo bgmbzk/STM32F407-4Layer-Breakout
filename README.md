@@ -9,13 +9,13 @@ Bu projenin temel amacı; gerçek zamanlı kontrol sistemleri, robotik uygulamal
 ## Görseller
 
 ### 1. 3D Model Görünümü (3D Viewer)
-![3D Kart Görünümü](STM_32_Breakout_3d)
+![3D Kart Görünümü](STM_32_Breakout_3d.png)
 
 ### 2. PCB Tasarımı ve Katman Düzeni (PCB Layout)
-![PCB Katman Düzeni](STM_32_Breakout_pcb)
+![PCB Katman Düzeni](STM_32_Breakout_pcb.png)
 
 ### 3. Şematik Tasarım (Schematic Capture)
-![Şematik Diyagramı](STM_32_Breakout_sch)
+![Şematik Diyagramı](STM_32_Breakout_sch.png)
 
 ---
 
